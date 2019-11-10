@@ -1,0 +1,16 @@
+{
+  "decoders": [
+    {
+      "name": "LSTM",
+      "config": {
+        "cell": {
+          "args": [
+            6
+          ]
+        },
+        "rnn": {
+        }
+      }
+    }
+  ]
+}
